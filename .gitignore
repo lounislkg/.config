@@ -1,0 +1,29 @@
+# Clés SSH et autres fichiers d'identité
+ssh/
+gpg/
+id_rsa*
+id_ed25519*
+
+# Configurations spécifiques aux sessions
+.history
+.bash_history
+.zsh_history
+
+# Configurations contenant des tokens ou mots de passe
+.npmrc
+.git-credentials
+aws/
+kube/
+secrets/
+.env
+
+# Cache et logs
+cache/
+logs/
+
+# Credentials et tokens
+*.key
+*.pem
+*.pub
+github-copilot/app.json
+
