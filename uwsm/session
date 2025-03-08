@@ -1,0 +1,8 @@
+# Lancement des applications 
+waybar
+uwsm app -- mako &
+uwsm app -- systemctl --user start hyprpolkitagent &
+uwsm app -- wl-paste --watch cliphist store &  # Stockage du clipboard
+# Lancer Hyprland
+exec Hyprland
+

@@ -1,0 +1,63 @@
+* {
+	font-family: "SF Mono", "Noto Color Emojis", sans-serif;
+	font-weight: bold;
+	font-size: 15px;
+	border-radius: 10px;
+}
+
+window#waybar {
+	background-color: transparent;
+	color: #ebdbb2;
+}
+
+#workspaces button.active {
+	color: #8ec07c;
+}
+
+#workspaces button {
+	color: #ffffff;
+	background-color: #282828;
+}
+#workspaces button:hover {
+	color: #000000;
+}
+#workspaces {
+	background-color: #282828;
+	padding: 0 5.6px 0 0;
+}
+
+.modules-left {
+	margin-top: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.modules-right {
+	margin-top: 5px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+.modules-center {
+	margin-top: 5px;
+}
+
+#clock {
+	padding-right: 20px;
+	padding-left: 20px;
+	margin-right: 15px;
+	margin-left: 15px;
+	background-color: #282828;
+	color: #b8bb26;
+}
+
+#window {
+	padding-left: 20px;
+	padding-right: 20px;
+	background-color: #282828;
+}
+
+#pulseaudio {
+	padding-right: 20px;
+	padding-left: 20px;
+}

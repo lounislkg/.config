@@ -27,3 +27,8 @@ logs/
 *.pub
 github-copilot/app.json
 
+#node version manager
+nvm/
+
+#onedrive tokens
+onedrive/refresh_token

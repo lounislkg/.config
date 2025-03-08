@@ -1,0 +1,8 @@
+
+[Unit]
+Description=Change wallpaper every 15 minutes
+After=graphical-session.target
+
+[Service]
+ExecStart=%h/.config/systemd/user/script.sh
+Type=oneshot

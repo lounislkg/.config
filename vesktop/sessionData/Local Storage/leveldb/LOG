@@ -1,0 +1,6 @@
+2025/02/20-15:21:16.854 9e8f Reusing MANIFEST /home/lounis/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/02/20-15:21:16.893 9e8f Recovering log #119
+2025/02/20-15:21:16.895 9e8f Reusing old log /home/lounis/.config/vesktop/sessionData/Local Storage/leveldb/000119.log 
+2025/02/20-15:43:02.219 9e7f Level-0 table #123: started
+2025/02/20-15:43:02.223 9e7f Level-0 table #123: 35372 bytes OK
+2025/02/20-15:43:02.227 9e7f Delete type=0 #119

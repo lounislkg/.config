@@ -1,0 +1,6 @@
+2025/02/20-15:43:00.022 a68b Reusing MANIFEST /home/lounis/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/02/20-15:43:00.023 a68b Recovering log #34
+2025/02/20-15:43:00.025 a68b Reusing old log /home/lounis/.config/google-chrome/Default/Sync Data/LevelDB/000034.log 
+2025/02/20-16:04:20.518 a68b Level-0 table #38: started
+2025/02/20-16:04:20.524 a68b Level-0 table #38: 90800 bytes OK
+2025/02/20-16:04:20.529 a68b Delete type=0 #34

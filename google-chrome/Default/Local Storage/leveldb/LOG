@@ -1,0 +1,6 @@
+2025/03/08-14:44:12.858 4 Reusing MANIFEST /home/lounis/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2025/03/08-14:44:12.871 4 Recovering log #475
+2025/03/08-14:44:12.876 4 Reusing old log /home/lounis/.config/google-chrome/Default/Local Storage/leveldb/000475.log 
+2025/03/08-14:52:57.747 5 Level-0 table #479: started
+2025/03/08-14:52:57.753 5 Level-0 table #479: 50580 bytes OK
+2025/03/08-14:52:57.758 5 Delete type=0 #475
